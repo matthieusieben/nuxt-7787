@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "private": true,
+  "license": "MIT",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "dev": "nuxt packages/ui"
+  },
+  "dependencies": {
+    "css-loader": "^4.0.0"
+  }
+}
