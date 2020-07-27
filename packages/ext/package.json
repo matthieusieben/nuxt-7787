@@ -1,0 +1,9 @@
+{
+  "name": "ext",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "url-loader": "^4.1.0",
+    "css-loader": "^4.0.0"
+  }
+}
